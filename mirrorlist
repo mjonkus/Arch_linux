@@ -1,0 +1,20 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2020-02-20
+##
+
+## Switzerland
+#Server = https://mirror.ungleich.ch/mirror/packages/archlinux/$repo/os/$arch
+## Switzerland
+#Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+## Switzerland
+#Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+## Switzerland
+#Server = https://mirror.init7.net/archlinux/$repo/os/$arch
+## Switzerland
+#Server = http://mirror.puzzle.ch/archlinux/$repo/os/$arch
+## Switzerland
+#Server = https://mirror.puzzle.ch/archlinux/$repo/os/$arch
+## Switzerland
+#Server = http://mirror.init7.net/archlinux/$repo/os/$arch
