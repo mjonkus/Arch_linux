@@ -5,16 +5,16 @@
 ##
 
 ## Switzerland
-#Server = https://mirror.ungleich.ch/mirror/packages/archlinux/$repo/os/$arch
+Server = https://mirror.ungleich.ch/mirror/packages/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = https://mirror.init7.net/archlinux/$repo/os/$arch
+Server = https://mirror.init7.net/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = http://mirror.puzzle.ch/archlinux/$repo/os/$arch
+Server = http://mirror.puzzle.ch/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = https://mirror.puzzle.ch/archlinux/$repo/os/$arch
+Server = https://mirror.puzzle.ch/archlinux/$repo/os/$arch
 ## Switzerland
-#Server = http://mirror.init7.net/archlinux/$repo/os/$arch
+Server = http://mirror.init7.net/archlinux/$repo/os/$arch
